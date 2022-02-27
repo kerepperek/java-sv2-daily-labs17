@@ -1,1 +1,0 @@
-CREATE TABLE movies(id BIGINT AUTO_INCREMENT,title VARCHAR(255),relesase_date date, CONSTRAINT pk_movies PRIMARY KEY(id));
